@@ -18,3 +18,12 @@ List<Color> colorCodes = [
   Colors.yellow,
   Colors.pinkAccent,
 ];
+List<Color> colorCodes1 = [
+  Colors.green,
+  Colors.amber,
+  Colors.blue,
+  Colors.indigo,
+  Colors.red,
+  Colors.yellow,
+  Colors.pinkAccent,
+];
